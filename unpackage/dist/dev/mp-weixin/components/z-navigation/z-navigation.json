@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "z-popup": "/uni_modules/z-popup/components/z-popup/z-popup"
+  }
+}
